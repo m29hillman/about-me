@@ -1,9 +1,16 @@
 # Olá, eu sou o Marcelo Mazzochi Hillman! 👋
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m29hillman&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-## Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m29hillman&layout=compact&theme=gotham)
+## GitHub Stats e Linguagens mais usadas
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=m29hillman&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" width="48%">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m29hillman&layout=compact&theme=gotham" width="48%">
+<br clear="both" />
+
+---
+
+## **Onde me encontrar**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m29hillman)[![Email](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:m29hillman@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-mazzochi-hillman-446534b6/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omarcelohillman/)
 
 ---
 
@@ -36,8 +43,3 @@ Me considero um profissional versátil, com fácil adaptação a novas tecnologi
 ### **Bancos de Dados**
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-
----
-## **Onde me encontrar**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m29hillman)[![Email](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:m29hillman@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-mazzochi-hillman-446534b6/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omarcelohillman/)
