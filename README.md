@@ -2,8 +2,8 @@
 
 ## GitHub Stats e Linguagens mais usadas
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=m29hillman&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" width="48%">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m29hillman&layout=compact&theme=gotham" width="48%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=m29hillman&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" width="40%">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m29hillman&layout=compact&theme=gotham" width="40%">
 <br clear="both" />
 
 ---
